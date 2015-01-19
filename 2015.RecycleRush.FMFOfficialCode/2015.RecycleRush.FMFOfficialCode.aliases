@@ -1,5 +1,11 @@
 [My Computer]
-My Computer = "169.254.157.191"
+My Computer = "25.14.251.234"
+
+[NI 173x Smart Camera Target]
+NI 173x Smart Camera Target = "10.45.57.11"
+
+[RT CompactRIO Target]
+RT CompactRIO Target = "10.45.57.11"
 
 [Target]
 Target = "roboRIO-4557.local"
